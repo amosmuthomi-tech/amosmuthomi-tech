@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Global%20Remote%20%7C%20Relocation%20%7C%20Full--Time-223D5F?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=amosmuthomi-tech&label=Profile%20Views&color=1B3A6B&style=flat"/>
-</p>
-
 </div>
 
 ---
@@ -293,17 +289,6 @@ End-to-end data platform covering **11 years (2014–2025)** of Kenya's construc
 Founded and built a community data analytics platform tracking food security KPIs, youth agribusiness outreach, and community nutrition metrics across Kenyan communities — applying data engineering to social impact at the grassroots level.
 
 `Python` `pandas` `Excel` `Power BI` `KoBoToolbox`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amosmuthomi-tech&show_icons=true&theme=default&title_color=1B3A6B&icon_color=0D7377&text_color=1A1A2E&border_color=D0D8E8&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amosmuthomi-tech&layout=compact&theme=default&title_color=1B3A6B&text_color=1A1A2E&border_color=D0D8E8" height="165"/>
-
-</div>
 
 ---
 
